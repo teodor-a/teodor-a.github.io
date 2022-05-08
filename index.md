@@ -1,6 +1,8 @@
 ## Intro
 Aspiring data scientist with extensive background in ecology and evolution.
-Ecology + bioinformatics
+
+Ecology + bioinformatics + data visualisation and communication.
+
 [My repositories](https://github.com/teodor-a?tab=repositories)
 
 
