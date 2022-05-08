@@ -1,9 +1,11 @@
 ## Intro
 Aspiring data scientist with extensive background in ecology and evolution.
 Ecology + bioinformatics
+[My repositories](https://github.com/teodor-a?tab=repositories)
+
 
 ## Links
-<a href="https://www.linkedin.com/in/teodoralling"> <img src="In-Blue-72.png" alt="Go to Teodor Alling's LinkedIn page" style="width:72px;height:72px;"> </a>
+<a href="https://www.linkedin.com/in/teodoralling"> <img src="/In-Blue-72.png" alt="Go to Teodor Alling's LinkedIn page" style="width:72px;height:72px;"> </a>
 
 [LinkedIn](https://www.linkedin.com/in/teodoralling)
 
