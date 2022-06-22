@@ -1,7 +1,7 @@
 ## Intro
-Aspiring data scientist with extensive background in ecology and evolution.
+Biologist with extensive background in ecology and evolution and love working with data, coding and modelling.
 
-Ecology + bioinformatics + data visualisation and communication.
+My interests are: Ecology + bioinformatics + data visualisation and communication.
 
 [My repositories](https://github.com/teodor-a?tab=repositories)
 
